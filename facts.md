@@ -1,9 +1,7 @@
-# LastName, FirstName (replace with yours)
+# Machalek, Max
 List two truths and one lie about you below
 
-1. 
-1.
-1.
+1. I love dogs.
+2. I hate cats.
+3. I can easily eat 12+ tacos.
 
-
-Bonus (+1), add your screen shot as an image here.
