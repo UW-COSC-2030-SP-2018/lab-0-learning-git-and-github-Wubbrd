@@ -5,5 +5,4 @@ List two truths and one lie about you below
 2. I hate cats.
 3. I can easily eat 12+ tacos.
 
- ![Screenshot](lab-0-learning-git-and-github-Wubbrd/proof/Screenshot_from_2018-01-23_21-23-20.png)
- Format: ![Screenshot](url)
+ ![Screenshot](/proof/Screenshot_from_2018-01-23_21-23-20.png "screenshot")
